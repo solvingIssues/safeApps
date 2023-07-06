@@ -1,0 +1,585 @@
+{
+    "version": "0.1",
+    "apps" : [
+        {
+            "test": "true",
+            "appName": "com.google.android.networkstack.tetheringTethering",
+            "packageName": "com.google.android.networkstack.tethering",
+            "version": "12-7653768",
+            "platform": "",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": [
+                "dev1",
+                "dev2"
+            ]
+        },
+        {
+            "appName": "com.lottemembers.android",
+            "packageName": "com.lottemembers.android",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.Monthly23.SwipeBrickBreaker",
+            "packageName": "com.Monthly23.SwipeBrickBreaker",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.realbyteapps.moneymanagerfree",
+            "packageName": "com.realbyteapps.moneymanagerfree",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.skt.tmap.ku",
+            "packageName": "com.skt.tmap.ku",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.co.lottecinema.lcm",
+            "packageName": "kr.co.lottecinema.lcm",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ktmusic.geniemusic",
+            "packageName": "com.ktmusic.geniemusic",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.cultureland.ver2",
+            "packageName": "com.cultureland.ver2",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.gretech.gomplayerko",
+            "packageName": "com.gretech.gomplayerko",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.megabox.mop",
+            "packageName": "com.megabox.mop",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.co.psynet",
+            "packageName": "kr.co.psynet",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "sixclk.newpiki",
+            "packageName": "sixclk.newpiki",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.appsnine.compass",
+            "packageName": "com.appsnine.compass",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.gomtv.gomaudio",
+            "packageName": "com.gomtv.gomaudio",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.gretech.gomtv",
+            "packageName": "com.gretech.gomtv",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.guninnuri.guninday",
+            "packageName": "com.guninnuri.guninday",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.itemmania.imiapp",
+            "packageName": "com.itemmania.imiapp",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lotteworld.android.lottemagicpass",
+            "packageName": "com.lotteworld.android.lottemagicpass",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.Monthly23.BounceBrickBreaker",
+            "packageName": "com.Monthly23.BounceBrickBreaker",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.Monthly23.InfiniteSlice",
+            "packageName": "com.Monthly23.InfiniteSlice",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.pump.noraebang",
+            "packageName": "com.pump.noraebang",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.somcloud.somnote",
+            "packageName": "com.somcloud.somnote",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.whitecrow.metroid",
+            "packageName": "com.whitecrow.metroid",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.co.GoodTVBible",
+            "packageName": "kr.co.GoodTVBible",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.co.happymobile.happyscreen",
+            "packageName": "kr.co.happymobile.happyscreen",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.co.rinasoft.howuse",
+            "packageName": "kr.co.rinasoft.howuse",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "mafu.driving.free",
+            "packageName": "mafu.driving.free",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.wtwoo.girlsinger.worldcup",
+            "packageName": "com.wtwoo.girlsinger.worldcup",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.ac.fspmobile.cu",
+            "packageName": "kr.ac.fspmobile.cu",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.appsnine.audiorecorder",
+            "packageName": "com.appsnine.audiorecorder",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.camera.catmera",
+            "packageName": "com.camera.catmera",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.cultureland.plus",
+            "packageName": "com.cultureland.plus",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.dkworks.simple_air",
+            "packageName": "com.dkworks.simple_air",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lotteworld.ticket.seoulsky",
+            "packageName": "com.lotteworld.ticket.seoulsky",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.Monthly23.LevelUpSnakeBall",
+            "packageName": "com.Monthly23.LevelUpSnakeBall",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.nmp.playgeto",
+            "packageName": "com.nmp.playgeto",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.note.app.memorymemo",
+            "packageName": "com.note.app.memorymemo",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.player.pb.stream",
+            "packageName": "com.player.pb.stream",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.realbyteapps.moneya",
+            "packageName": "com.realbyteapps.moneya",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.wishpoke.fanciticon",
+            "packageName": "com.wishpoke.fanciticon",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "marifish.elder815.ecloud",
+            "packageName": "marifish.elder815.ecloud",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.dtryx.scinema",
+            "packageName": "com.dtryx.scinema",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.kcld.ticketoffice",
+            "packageName": "com.kcld.ticketoffice",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lotteworld.ticket.aquarium",
+            "packageName": "com.lotteworld.ticket.aquarium",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lotteworld.ticket.waterpark",
+            "packageName": "com.lotteworld.ticket.waterpark",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.skt.skaf.l001mtm091",
+            "packageName": "com.skt.skaf.l001mtm091",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "org.howcompany.randomnumber",
+            "packageName": "org.howcompany.randomnumber",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.aog.loader",
+            "packageName": "com.aog.loader",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.gomtv.gomaudio.pro",
+            "packageName": "com.gomtv.gomaudio.pro",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.NineGames.SwipeBrickBreaker2",
+            "packageName": "com.NineGames.SwipeBrickBreaker2",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.notice.safehome",
+            "packageName": "com.notice.safehome",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "kr.thepay.chuncheon",
+            "packageName": "kr.thepay.chuncheon",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.curation.fantaholic",
+            "packageName": "com.curation.fantaholic",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.dtryx.cinecube",
+            "packageName": "com.dtryx.cinecube",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.p2e.tia.tnt",
+            "packageName": "com.p2e.tia.tnt",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.health.bestcare",
+            "packageName": "com.health.bestcare",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ninegames.solitaire",
+            "packageName": "com.ninegames.solitaire",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.notice.newsafe",
+            "packageName": "com.notice.newsafe",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.notii.cashnote",
+            "packageName": "com.notii.cashnote",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.tdi.dataone",
+            "packageName": "com.tdi.dataone",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ting.eyesting",
+            "packageName": "com.ting.eyesting",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ting.tingsearch",
+            "packageName": "com.ting.tingsearch",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.celeb.tube.krieshachu",
+            "packageName": "com.celeb.tube.krieshachu",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.player.yeonhagoogokka",
+            "packageName": "com.player.yeonhagoogokka",
+            "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        }
+    ]
+}
