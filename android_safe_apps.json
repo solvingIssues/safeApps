@@ -115,8 +115,8 @@
         },
         {
             "test": "true",
-            "appName": "com.google.bluetooth",
-            "packageName": "com.google.bluetooth",
+            "appName": "com.android.bluetooth",
+            "packageName": "com.android.bluetooth",
             "version": "12-7653768",
             "platform": "",
             "playstoreUrl": "",
