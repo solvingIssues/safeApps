@@ -2,19 +2,6 @@
     "version": "0.1",
     "apps" : [
         {
-            "test": "true",
-            "appName": "com.google.android.networkstack.tetheringTethering",
-            "packageName": "com.google.android.networkstack.tethering",
-            "version": "12-7653768",
-            "platform": "",
-            "playstoreUrl": "",
-            "description": "",
-            "developer": [
-                "dev1",
-                "dev2"
-            ]
-        },
-        {
             "appName": "com.lottemembers.android",
             "packageName": "com.lottemembers.android",
             "version": "",
@@ -49,6 +36,19 @@
             "playstoreUrl": "",
             "description": "",
             "developer": []
+        },
+        {
+            "test": "true",
+            "appName": "com.google.android.networkstack.tetheringTethering",
+            "packageName": "com.google.android.networkstack.tethering",
+            "version": "12-7653768",
+            "platform": "",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": [
+                "dev1",
+                "dev2"
+            ]
         },
         {
             "appName": "kr.co.lottecinema.lcm",
@@ -114,6 +114,19 @@
             "developer": []
         },
         {
+            "test": "true",
+            "appName": "com.google.android.networkstack.tetheringTethering",
+            "packageName": "com.google.android.networkstack.tethering",
+            "version": "12-7653768",
+            "platform": "",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": [
+                "dev1",
+                "dev2"
+            ]
+        },
+        {
             "appName": "com.appsnine.compass",
             "packageName": "com.appsnine.compass",
             "version": "",
@@ -121,6 +134,19 @@
             "playstoreUrl": "",
             "description": "",
             "developer": []
+        },
+        {
+            "test": "true",
+            "appName": "com.google.android.networkstack.tetheringTethering",
+            "packageName": "com.google.android.networkstack.tethering",
+            "version": "12-7653768",
+            "platform": "",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": [
+                "dev1",
+                "dev2"
+            ]
         },
         {
             "appName": "com.gomtv.gomaudio",
