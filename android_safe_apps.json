@@ -2,6 +2,19 @@
     "version": "0.1",
     "apps" : [
         {
+            "test": "true",
+            "appName": "com.google.android.networkstack.tetheringTethering",
+            "packageName": "com.google.android.networkstack.tethering",
+            "version": "12-7653768",
+            "platform": "",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": [
+                "dev1",
+                "dev2"
+            ]
+        },
+        {
             "appName": "com.lottemembers.android",
             "packageName": "com.lottemembers.android",
             "version": "",
@@ -36,19 +49,6 @@
             "playstoreUrl": "",
             "description": "",
             "developer": []
-        },
-        {
-            "test": "true",
-            "appName": "com.google.android.networkstack.tetheringTethering",
-            "packageName": "com.google.android.networkstack.tethering",
-            "version": "12-7653768",
-            "platform": "",
-            "playstoreUrl": "",
-            "description": "",
-            "developer": [
-                "dev1",
-                "dev2"
-            ]
         },
         {
             "appName": "kr.co.lottecinema.lcm",
@@ -114,19 +114,6 @@
             "developer": []
         },
         {
-            "test": "true",
-            "appName": "com.android.bluetooth",
-            "packageName": "com.android.bluetooth",
-            "version": "12-7653768",
-            "platform": "",
-            "playstoreUrl": "",
-            "description": "",
-            "developer": [
-                "dev1",
-                "dev2"
-            ]
-        },
-        {
             "appName": "com.appsnine.compass",
             "packageName": "com.appsnine.compass",
             "version": "",
@@ -134,19 +121,6 @@
             "playstoreUrl": "",
             "description": "",
             "developer": []
-        },
-        {
-            "test": "true",
-            "appName": "com.google.android.networkstack.tetheringTethering",
-            "packageName": "com.google.android.networkstack.tethering",
-            "version": "12-7653768",
-            "platform": "",
-            "playstoreUrl": "",
-            "description": "",
-            "developer": [
-                "dev1",
-                "dev2"
-            ]
         },
         {
             "appName": "com.gomtv.gomaudio",
@@ -602,6 +576,726 @@
             "appName": "com.player.yeonhagoogokka",
             "packageName": "com.player.yeonhagoogokka",
             "version": "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.asuper.man.playmilk",
+            "packageName": "com.asuper.man.playmilk",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.arrow.coins.funny",
+            "packageName": "com.arrow.coins.funny",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ekfnv.docjfltc.parking.master",
+            "packageName": "com.ekfnv.docjfltc.parking.master",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lady.dress.run.sexylady",
+            "packageName": "com.lady.dress.run.sexylady",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.magic.brush.gamesly",
+            "packageName": "com.magic.brush.gamesly",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.shake.earn.sheep.causalgame",
+            "packageName": "com.shake.earn.sheep.causalgame",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.yigegame.jyfsmnq.gg",
+            "packageName": "com.yigegame.jyfsmnq.gg",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.physicswingsstudio.JackpotScratchers",
+            "packageName": "com.physicswingsstudio.JackpotScratchers",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.scratchers.jackpot.luckypiggy",
+            "packageName": "com.scratchers.jackpot.luckypiggy",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.pocky.ztime",
+            "packageName": "com.pocky.ztime",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.free.tickets.scratchers.Billionaire",
+            "packageName": "com.free.tickets.scratchers.Billionaire",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.free.scratchers.luckywings",
+            "packageName": "com.free.scratchers.luckywings",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.free.tickets.scratchers.LuckyLotto",
+            "packageName": "com.free.tickets.scratchers.LuckyLotto",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ldle.merge.free.coinspiggy",
+            "packageName": "com.ldle.merge.free.coinspiggy",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ldle.merge.lucky.moneytree",
+            "packageName": "com.ldle.merge.lucky.moneytree",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.tap.run.and.dance",
+            "packageName": "com.tap.run.and.dance",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lotto.bingo.lucky.scratchcard",
+            "packageName": "com.lotto.bingo.lucky.scratchcard",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.pull.bugs.worm",
+            "packageName": "com.pull.bugs.worm",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.crowd.battle.goamy",
+            "packageName": "com.crowd.battle.goamy",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.shoot.dummy.fast.speed.linger",
+            "packageName": "com.shoot.dummy.fast.speed.linger",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.different.ten.spotgames",
+            "packageName": "com.different.ten.spotgames",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.find.five.subtle.differences.spot.new",
+            "packageName": "com.find.five.subtle.differences.spot.new",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.huluwagames.dinosaur.legend.play",
+            "packageName": "com.huluwagames.dinosaur.legend.play",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.one.line.drawing.stroke.yuxi",
+            "packageName": "com.one.line.drawing.stroke.yuxi",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.shooter.master.bullet.puzzle.huahong",
+            "packageName": "com.shooter.master.bullet.puzzle.huahong",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.talent.trap.stop.all",
+            "packageName": "com.talent.trap.stop.all",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.bullet.shoot.fight.gtommm.tom",
+            "packageName": "com.bullet.shoot.fight.gtommm.tom",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.chop.slice.flake2020",
+            "packageName": "com.chop.slice.flake2020",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.five.star.slice",
+            "packageName": "com.five.star.slice",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.sand.drawing.newfight",
+            "packageName": "com.sand.drawing.newfight",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.topggame.facego.finger.crazy.dino",
+            "packageName": "com.topggame.facego.finger.crazy.dino",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.track3d.sliding.new",
+            "packageName": "com.track3d.sliding.new",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.beat.kicker.two.game",
+            "packageName": "com.beat.kicker.two.game",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.cube.fill.color.paint.turn.fei",
+            "packageName": "com.cube.fill.color.paint.turn.fei",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.draw.live.milipop",
+            "packageName": "com.draw.live.milipop",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.draw.one.line.stroke.xipi",
+            "packageName": "com.draw.one.line.stroke.xipi",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.fidget.cubes.feel.like",
+            "packageName": "com.fidget.cubes.feel.like",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.girls.fight.fly",
+            "packageName": "com.girls.fight.fly",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.knifeninja.assassin.dltc",
+            "packageName": "com.knifeninja.assassin.dltc",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.my.bullet.shooting.man.hunter.youxi",
+            "packageName": "com.my.bullet.shooting.man.hunter.youxi",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.pul.parkour.bbroller",
+            "packageName": "com.pul.parkour.bbroller",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.slice.chop.superslice3d",
+            "packageName": "com.slice.chop.superslice3d",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.weapon.fantasy.games",
+            "packageName": "com.weapon.fantasy.games",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.balloon.shooter.play",
+            "packageName": "com.balloon.shooter.play",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ltcmusical.fun2021",
+            "packageName": "com.ltcmusical.fun2021",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.lvdiao.chop.slices.chef",
+            "packageName": "com.lvdiao.chop.slices.chef",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.slice.masked.games",
+            "packageName": "com.slice.masked.games",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.work.now.slack",
+            "packageName": "com.work.now.slack",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.bottle.jump.flip.challenge.fun",
+            "packageName": "com.bottle.jump.flip.challenge.fun",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.corn.scraper.cut.pipe.siling",
+            "packageName": "com.corn.scraper.cut.pipe.siling",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.idle.wood.maker.gametwo",
+            "packageName": "com.idle.wood.maker.gametwo",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.pop.girls.schooler",
+            "packageName": "com.pop.girls.schooler",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.romy.rushrun",
+            "packageName": "com.romy.rushrun",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.spear.super.man.hero",
+            "packageName": "com.spear.super.man.hero",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.dig.road.balls.play.games.ygygame",
+            "packageName": "com.dig.road.balls.play.games.ygygame",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.boostar.boo.popstar",
+            "packageName": "com.boostar.boo.popstar",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.darwa.completea.ltca",
+            "packageName": "com.darwa.completea.ltca",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.rushcube.puzzle.block",
+            "packageName": "com.rushcube.puzzle.block",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.magicvcam.hdmeet.cam008",
+            "packageName": "com.magicvcam.hdmeet.cam008",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.stac.amper.qweaf",
+            "packageName": "com.stac.amper.qweaf",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.find.five.differences.lvye.xsl",
+            "packageName": "com.find.five.differences.lvye.xsl",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.mufc.zwxfb",
+            "packageName": "com.mufc.zwxfb",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.roll.turn.song.wusi.pt",
+            "packageName": "com.roll.turn.song.wusi.pt",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.hiding.drawltc.games",
+            "packageName": "com.hiding.drawltc.games",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ltc.peter.shoot.tslgame",
+            "packageName": "com.ltc.peter.shoot.tslgame",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ltcdesign.nroad",
+            "packageName": "com.ltcdesign.nroad",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ltcdraw.complete.fly",
+            "packageName": "com.ltcdraw.complete.fly",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.ltcking.thief.game.tsl",
+            "packageName": "com.ltcking.thief.game.tsl",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.downhill.race.redbull",
+            "packageName": "com.downhill.race.redbull",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.draw.war.army",
+            "packageName": "com.draw.war.army",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.rescue.master.gear.mechanics.wushi",
+            "packageName": "com.rescue.master.gear.mechanics.wushi",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "come.letter.roll.race",
+            "packageName": "come.letter.roll.race",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.helicopter.attack.shoot.sanba",
+            "packageName": "com.helicopter.attack.shoot.sanba",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.crush.car.fly.delivery.lingjiu",
+            "packageName": "com.crush.car.fly.delivery.lingjiu",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.tycmrelx.cash",
+            "packageName": "com.tycmrelx.cash",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.painting.war.inpaper",
+            "packageName": "com.painting.war.inpaper",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.bike.extreme.raceing.bikegames",
+            "packageName": "com.bike.extreme.raceing.bikegames",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.player.spiral.maker.d3",
+            "packageName": "com.player.spiral.maker.d3",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.blocks.tile.matching",
+            "packageName": "com.blocks.tile.matching",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+        {
+            "appName": "com.cube.merge.shooter",
+            "packageName": "com.cube.merge.shooter",
+            "version" : "",
             "platform": "Android",
             "playstoreUrl": "",
             "description": "",
