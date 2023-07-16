@@ -1,5 +1,5 @@
 {
-    "version": "0.1",
+    "version": "0.2",
     "apps" : [
         {
             "test": "true",
@@ -1300,6 +1300,26 @@
             "playstoreUrl": "",
             "description": "",
             "developer": []
+        },
+{
+            "appName": "com.spot.music.filedate",
+            "packageName": "com.spot.music.filedate",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
+        },
+
+{
+            "appName": "com.file.box.master.gkd",
+            "packageName": "com.file.box.master.gkd",
+            "version" : "",
+            "platform": "Android",
+            "playstoreUrl": "",
+            "description": "",
+            "developer": []
         }
+
     ]
 }
